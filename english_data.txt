@@ -1,0 +1,26 @@
+The API is built using REST architecture.
+CUDA accelerates deep learning models.
+OAuth is used for secure authorization.
+Porsche is pronounced as "Porsh-uh."
+Hermès is pronounced as "Er-mez."
+IKEA is pronounced as "Ee-kay-uh."
+Adidas is pronounced as "Ah-dee-dahs."
+Hyundai is pronounced as "Hun-day."
+Louis Vuitton is pronounced as "Loo-wee Vwee-tahn."
+Givenchy is pronounced as "Zhee-von-shee."
+Moschino is pronounced as "Moss-key-no."
+Huawei is pronounced as "Wah-way."
+Balenciaga is pronounced as "Bah-len-see-ah-gah."
+TAG Heuer is pronounced as "Tag Hoy-er."
+Yves Saint Laurent is pronounced as "Eev Sahn Lo-rahn."
+L'Occitane is pronounced as "Lox-ee-tan."
+Miele is pronounced as "Mee-luh."
+Schwarzkopf is pronounced as "Shvarts-koff."
+Hublot is pronounced as "Oo-bloh."
+Peugeot is pronounced as "Poo-zhoh."
+Lamborghini is pronounced as "Lam-bor-ghee-nee."
+Bvlgari is pronounced as "Bool-gar-ee."
+Audi is pronounced as "Ow-dee."
+
+
+ 
